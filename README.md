@@ -1,4 +1,4 @@
-# RottenTomatoe
+# RottenTomatoe IST 664
 Fitting RNN's in TensorFlow to classify sentiment and comparing results to classical machine learning. 
 
 ## Overview 
